@@ -1,2 +1,2 @@
 # jsfprimefacesessencial
-Curso sobre JSF e Primefaces Algaworks.
+Curso sobre JSF e Primefaces.
